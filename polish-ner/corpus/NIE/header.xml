@@ -1,0 +1,2190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en" xml:id="NKJP_1M_4scal-NIE">
+ <fileDesc>
+  <titleStmt>
+   <title>TEI P5 encoded version of sample(s) of "Nie"</title>
+  </titleStmt>
+  <extent nkjp:file="text.xml">
+   <num type="word" value="29686"/>
+  </extent>
+  <publicationStmt nkjp:subcorpus="one_million">
+   <availability status="free">
+    <p>See the licence agreement.</p>
+   </availability>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl xml:id="h_src-bibl">
+    <title xml:lang="pl">Nie (agregat)</title>
+    <idno type="nkjp">IJPPAN_4scal-NIE</idno>
+    <note type="text_origin">IJP PAN</note>
+   </bibl>
+   <listBibl>
+    <bibl xml:id="h_1-bibl">
+     <ptr target="#txt_1-div"/>
+     <idno type="para">p1093in1784</idno>
+    </bibl>
+    <bibl xml:id="h_2-bibl">
+     <ptr target="#txt_2-div"/>
+     <idno type="para">p43in87</idno>
+    </bibl>
+    <bibl xml:id="h_3-bibl">
+     <ptr target="#txt_3-div"/>
+     <idno type="para">p150in276</idno>
+    </bibl>
+    <bibl xml:id="h_4-bibl">
+     <ptr target="#txt_4-div"/>
+     <idno type="para">p580in965</idno>
+    </bibl>
+    <bibl xml:id="h_5-bibl">
+     <ptr target="#txt_5-div"/>
+     <idno type="para">p165in263</idno>
+    </bibl>
+    <bibl xml:id="h_6-bibl">
+     <ptr target="#txt_6-div"/>
+     <idno type="para">p63in123</idno>
+    </bibl>
+    <bibl xml:id="h_7-bibl">
+     <ptr target="#txt_7-div"/>
+     <idno type="para">p523in989</idno>
+    </bibl>
+    <bibl xml:id="h_8-bibl">
+     <ptr target="#txt_8-div"/>
+     <idno type="para">p949in1468</idno>
+    </bibl>
+    <bibl xml:id="h_9-bibl">
+     <ptr target="#txt_9-div"/>
+     <idno type="para">p328in549</idno>
+    </bibl>
+    <bibl xml:id="h_10-bibl">
+     <ptr target="#txt_10-div"/>
+     <idno type="para">p328in527</idno>
+    </bibl>
+    <bibl xml:id="h_11-bibl">
+     <ptr target="#txt_11-div"/>
+     <idno type="para">p163in287</idno>
+    </bibl>
+    <bibl xml:id="h_12-bibl">
+     <ptr target="#txt_12-div"/>
+     <idno type="para">p375in714</idno>
+    </bibl>
+    <bibl xml:id="h_13-bibl">
+     <ptr target="#txt_13-div"/>
+     <idno type="para">p60in120</idno>
+    </bibl>
+    <bibl xml:id="h_14-bibl">
+     <ptr target="#txt_14-div"/>
+     <idno type="para">p346in641</idno>
+    </bibl>
+    <bibl xml:id="h_15-bibl">
+     <ptr target="#txt_15-div"/>
+     <idno type="para">p329in790</idno>
+    </bibl>
+    <bibl xml:id="h_16-bibl">
+     <ptr target="#txt_16-div"/>
+     <idno type="para">p502in867</idno>
+    </bibl>
+    <bibl xml:id="h_17-bibl">
+     <ptr target="#txt_17-div"/>
+     <idno type="para">p197in385</idno>
+    </bibl>
+    <bibl xml:id="h_18-bibl">
+     <ptr target="#txt_18-div"/>
+     <idno type="para">p354in617</idno>
+    </bibl>
+    <bibl xml:id="h_19-bibl">
+     <ptr target="#txt_19-div"/>
+     <idno type="para">p268in403</idno>
+    </bibl>
+    <bibl xml:id="h_20-bibl">
+     <ptr target="#txt_20-div"/>
+     <idno type="para">p543in1015</idno>
+    </bibl>
+    <bibl xml:id="h_21-bibl">
+     <ptr target="#txt_21-div"/>
+     <idno type="para">p403in762</idno>
+    </bibl>
+    <bibl xml:id="h_22-bibl">
+     <ptr target="#txt_22-div"/>
+     <idno type="para">p163in304</idno>
+    </bibl>
+    <bibl xml:id="h_23-bibl">
+     <ptr target="#txt_23-div"/>
+     <idno type="para">p562in1109</idno>
+    </bibl>
+    <bibl xml:id="h_24-bibl">
+     <ptr target="#txt_24-div"/>
+     <idno type="para">p525in879</idno>
+    </bibl>
+    <bibl xml:id="h_25-bibl">
+     <ptr target="#txt_25-div"/>
+     <idno type="para">p275in506</idno>
+    </bibl>
+    <bibl xml:id="h_26-bibl">
+     <ptr target="#txt_26-div"/>
+     <idno type="para">p341in679</idno>
+    </bibl>
+    <bibl xml:id="h_27-bibl">
+     <ptr target="#txt_27-div"/>
+     <idno type="para">p718in1126</idno>
+    </bibl>
+    <bibl xml:id="h_28-bibl">
+     <ptr target="#txt_28-div"/>
+     <idno type="para">p544in999</idno>
+    </bibl>
+    <bibl xml:id="h_29-bibl">
+     <ptr target="#txt_29-div"/>
+     <idno type="para">p333in623</idno>
+    </bibl>
+    <bibl xml:id="h_30-bibl">
+     <ptr target="#txt_30-div"/>
+     <idno type="para">p312in625</idno>
+    </bibl>
+    <bibl xml:id="h_31-bibl">
+     <ptr target="#txt_31-div"/>
+     <idno type="para">p586in956</idno>
+    </bibl>
+    <bibl xml:id="h_32-bibl">
+     <ptr target="#txt_32-div"/>
+     <idno type="para">p542in1036</idno>
+    </bibl>
+    <bibl xml:id="h_33-bibl">
+     <ptr target="#txt_33-div"/>
+     <idno type="para">p98in174</idno>
+    </bibl>
+    <bibl xml:id="h_34-bibl">
+     <ptr target="#txt_34-div"/>
+     <idno type="para">p74in155</idno>
+    </bibl>
+    <bibl xml:id="h_35-bibl">
+     <ptr target="#txt_35-div"/>
+     <idno type="para">p246in434</idno>
+    </bibl>
+    <bibl xml:id="h_36-bibl">
+     <ptr target="#txt_36-div"/>
+     <idno type="para">p440in773</idno>
+    </bibl>
+    <bibl xml:id="h_37-bibl">
+     <ptr target="#txt_37-div"/>
+     <idno type="para">p190in282</idno>
+    </bibl>
+    <bibl xml:id="h_38-bibl">
+     <ptr target="#txt_38-div"/>
+     <idno type="para">p95in187</idno>
+    </bibl>
+    <bibl xml:id="h_39-bibl">
+     <ptr target="#txt_39-div"/>
+     <idno type="para">p223in406</idno>
+    </bibl>
+    <bibl xml:id="h_40-bibl">
+     <ptr target="#txt_40-div"/>
+     <idno type="para">p465in937</idno>
+    </bibl>
+    <bibl xml:id="h_41-bibl">
+     <ptr target="#txt_41-div"/>
+     <idno type="para">p530in987</idno>
+    </bibl>
+    <bibl xml:id="h_42-bibl">
+     <ptr target="#txt_42-div"/>
+     <idno type="para">p89in165</idno>
+    </bibl>
+    <bibl xml:id="h_43-bibl">
+     <ptr target="#txt_43-div"/>
+     <idno type="para">p589in1124</idno>
+    </bibl>
+    <bibl xml:id="h_44-bibl">
+     <ptr target="#txt_44-div"/>
+     <idno type="para">p562in932</idno>
+    </bibl>
+    <bibl xml:id="h_45-bibl">
+     <ptr target="#txt_45-div"/>
+     <idno type="para">p545in1011</idno>
+    </bibl>
+    <bibl xml:id="h_46-bibl">
+     <ptr target="#txt_46-div"/>
+     <idno type="para">p512in948</idno>
+    </bibl>
+    <bibl xml:id="h_47-bibl">
+     <ptr target="#txt_47-div"/>
+     <idno type="para">p600in1180</idno>
+    </bibl>
+    <bibl xml:id="h_48-bibl">
+     <ptr target="#txt_48-div"/>
+     <idno type="para">p369in611</idno>
+    </bibl>
+    <bibl xml:id="h_49-bibl">
+     <ptr target="#txt_49-div"/>
+     <idno type="para">p517in1017</idno>
+    </bibl>
+    <bibl xml:id="h_50-bibl">
+     <ptr target="#txt_50-div"/>
+     <idno type="para">p518in971</idno>
+    </bibl>
+    <bibl xml:id="h_51-bibl">
+     <ptr target="#txt_51-div"/>
+     <idno type="para">p267in483</idno>
+    </bibl>
+    <bibl xml:id="h_52-bibl">
+     <ptr target="#txt_52-div"/>
+     <idno type="para">p83in132</idno>
+    </bibl>
+    <bibl xml:id="h_53-bibl">
+     <ptr target="#txt_53-div"/>
+     <idno type="para">p145in301</idno>
+    </bibl>
+    <bibl xml:id="h_54-bibl">
+     <ptr target="#txt_54-div"/>
+     <idno type="para">p244in459</idno>
+    </bibl>
+    <bibl xml:id="h_55-bibl">
+     <ptr target="#txt_55-div"/>
+     <idno type="para">p458in815</idno>
+    </bibl>
+    <bibl xml:id="h_56-bibl">
+     <ptr target="#txt_56-div"/>
+     <idno type="para">p144in284</idno>
+    </bibl>
+    <bibl xml:id="h_57-bibl">
+     <ptr target="#txt_57-div"/>
+     <idno type="para">p24in57</idno>
+    </bibl>
+    <bibl xml:id="h_58-bibl">
+     <ptr target="#txt_58-div"/>
+     <idno type="para">p103in243</idno>
+    </bibl>
+    <bibl xml:id="h_59-bibl">
+     <ptr target="#txt_59-div"/>
+     <idno type="para">p409in829</idno>
+    </bibl>
+    <bibl xml:id="h_60-bibl">
+     <ptr target="#txt_60-div"/>
+     <idno type="para">p166in322</idno>
+    </bibl>
+    <bibl xml:id="h_61-bibl">
+     <ptr target="#txt_61-div"/>
+     <idno type="para">p735in1291</idno>
+    </bibl>
+    <bibl xml:id="h_62-bibl">
+     <ptr target="#txt_62-div"/>
+     <idno type="para">p168in239</idno>
+    </bibl>
+    <bibl xml:id="h_63-bibl">
+     <ptr target="#txt_63-div"/>
+     <idno type="para">p95in182</idno>
+    </bibl>
+    <bibl xml:id="h_64-bibl">
+     <ptr target="#txt_64-div"/>
+     <idno type="para">p433in782</idno>
+    </bibl>
+    <bibl xml:id="h_65-bibl">
+     <ptr target="#txt_65-div"/>
+     <idno type="para">p23in52</idno>
+    </bibl>
+    <bibl xml:id="h_66-bibl">
+     <ptr target="#txt_66-div"/>
+     <idno type="para">p206in378</idno>
+    </bibl>
+    <bibl xml:id="h_67-bibl">
+     <ptr target="#txt_67-div"/>
+     <idno type="para">p605in1120</idno>
+    </bibl>
+    <bibl xml:id="h_68-bibl">
+     <ptr target="#txt_68-div"/>
+     <idno type="para">p417in766</idno>
+    </bibl>
+    <bibl xml:id="h_69-bibl">
+     <ptr target="#txt_69-div"/>
+     <idno type="para">p160in348</idno>
+    </bibl>
+    <bibl xml:id="h_70-bibl">
+     <ptr target="#txt_70-div"/>
+     <idno type="para">p290in533</idno>
+    </bibl>
+    <bibl xml:id="h_71-bibl">
+     <ptr target="#txt_71-div"/>
+     <idno type="para">p20in37</idno>
+    </bibl>
+    <bibl xml:id="h_72-bibl">
+     <ptr target="#txt_72-div"/>
+     <idno type="para">p395in819</idno>
+    </bibl>
+    <bibl xml:id="h_73-bibl">
+     <ptr target="#txt_73-div"/>
+     <idno type="para">p100in240</idno>
+    </bibl>
+    <bibl xml:id="h_74-bibl">
+     <ptr target="#txt_74-div"/>
+     <idno type="para">p530in959</idno>
+    </bibl>
+    <bibl xml:id="h_75-bibl">
+     <ptr target="#txt_75-div"/>
+     <idno type="para">p58in134</idno>
+    </bibl>
+    <bibl xml:id="h_76-bibl">
+     <ptr target="#txt_76-div"/>
+     <idno type="para">p507in889</idno>
+    </bibl>
+    <bibl xml:id="h_77-bibl">
+     <ptr target="#txt_77-div"/>
+     <idno type="para">p265in406</idno>
+    </bibl>
+    <bibl xml:id="h_78-bibl">
+     <ptr target="#txt_78-div"/>
+     <idno type="para">p269in447</idno>
+    </bibl>
+    <bibl xml:id="h_79-bibl">
+     <ptr target="#txt_79-div"/>
+     <idno type="para">p72in148</idno>
+    </bibl>
+    <bibl xml:id="h_80-bibl">
+     <ptr target="#txt_80-div"/>
+     <idno type="para">p260in507</idno>
+    </bibl>
+    <bibl xml:id="h_81-bibl">
+     <ptr target="#txt_81-div"/>
+     <idno type="para">p509in1028</idno>
+    </bibl>
+    <bibl xml:id="h_82-bibl">
+     <ptr target="#txt_82-div"/>
+     <idno type="para">p146in318</idno>
+    </bibl>
+    <bibl xml:id="h_83-bibl">
+     <ptr target="#txt_83-div"/>
+     <idno type="para">p87in179</idno>
+    </bibl>
+    <bibl xml:id="h_84-bibl">
+     <ptr target="#txt_84-div"/>
+     <idno type="para">p3in20</idno>
+    </bibl>
+    <bibl xml:id="h_85-bibl">
+     <ptr target="#txt_85-div"/>
+     <idno type="para">p248in394</idno>
+    </bibl>
+    <bibl xml:id="h_86-bibl">
+     <ptr target="#txt_86-div"/>
+     <idno type="para">p35in52</idno>
+    </bibl>
+    <bibl xml:id="h_87-bibl">
+     <ptr target="#txt_87-div"/>
+     <idno type="para">p425in785</idno>
+    </bibl>
+    <bibl xml:id="h_88-bibl">
+     <ptr target="#txt_88-div"/>
+     <idno type="para">p354in580</idno>
+    </bibl>
+    <bibl xml:id="h_89-bibl">
+     <ptr target="#txt_89-div"/>
+     <idno type="para">p464in845</idno>
+    </bibl>
+    <bibl xml:id="h_90-bibl">
+     <ptr target="#txt_90-div"/>
+     <idno type="para">p382in764</idno>
+    </bibl>
+    <bibl xml:id="h_91-bibl">
+     <ptr target="#txt_91-div"/>
+     <idno type="para">p358in675</idno>
+    </bibl>
+    <bibl xml:id="h_92-bibl">
+     <ptr target="#txt_92-div"/>
+     <idno type="para">p38in71</idno>
+    </bibl>
+    <bibl xml:id="h_93-bibl">
+     <ptr target="#txt_93-div"/>
+     <idno type="para">p354in644</idno>
+    </bibl>
+    <bibl xml:id="h_94-bibl">
+     <ptr target="#txt_94-div"/>
+     <idno type="para">p365in585</idno>
+    </bibl>
+    <bibl xml:id="h_95-bibl">
+     <ptr target="#txt_95-div"/>
+     <idno type="para">p102in259</idno>
+    </bibl>
+    <bibl xml:id="h_96-bibl">
+     <ptr target="#txt_96-div"/>
+     <idno type="para">p259in464</idno>
+    </bibl>
+    <bibl xml:id="h_97-bibl">
+     <ptr target="#txt_97-div"/>
+     <idno type="para">p52in112</idno>
+    </bibl>
+    <bibl xml:id="h_98-bibl">
+     <ptr target="#txt_98-div"/>
+     <idno type="para">p599in979</idno>
+    </bibl>
+    <bibl xml:id="h_99-bibl">
+     <ptr target="#txt_99-div"/>
+     <idno type="para">p523in962</idno>
+    </bibl>
+    <bibl xml:id="h_100-bibl">
+     <ptr target="#txt_100-div"/>
+     <idno type="para">p87in174</idno>
+    </bibl>
+    <bibl xml:id="h_101-bibl">
+     <ptr target="#txt_101-div"/>
+     <idno type="para">p554in1044</idno>
+    </bibl>
+    <bibl xml:id="h_102-bibl">
+     <ptr target="#txt_102-div"/>
+     <idno type="para">p172in312</idno>
+    </bibl>
+    <bibl xml:id="h_103-bibl">
+     <ptr target="#txt_103-div"/>
+     <idno type="para">p303in572</idno>
+    </bibl>
+    <bibl xml:id="h_104-bibl">
+     <ptr target="#txt_104-div"/>
+     <idno type="para">p402in729</idno>
+    </bibl>
+    <bibl xml:id="h_105-bibl">
+     <ptr target="#txt_105-div"/>
+     <idno type="para">p48in92</idno>
+    </bibl>
+    <bibl xml:id="h_106-bibl">
+     <ptr target="#txt_106-div"/>
+     <idno type="para">p301in500</idno>
+    </bibl>
+    <bibl xml:id="h_107-bibl">
+     <ptr target="#txt_107-div"/>
+     <idno type="para">p525in960</idno>
+    </bibl>
+    <bibl xml:id="h_108-bibl">
+     <ptr target="#txt_108-div"/>
+     <idno type="para">p430in762</idno>
+    </bibl>
+    <bibl xml:id="h_109-bibl">
+     <ptr target="#txt_109-div"/>
+     <idno type="para">p292in593</idno>
+    </bibl>
+    <bibl xml:id="h_110-bibl">
+     <ptr target="#txt_110-div"/>
+     <idno type="para">p78in181</idno>
+    </bibl>
+    <bibl xml:id="h_111-bibl">
+     <ptr target="#txt_111-div"/>
+     <idno type="para">p468in894</idno>
+    </bibl>
+    <bibl xml:id="h_112-bibl">
+     <ptr target="#txt_112-div"/>
+     <idno type="para">p20in53</idno>
+    </bibl>
+    <bibl xml:id="h_113-bibl">
+     <ptr target="#txt_113-div"/>
+     <idno type="para">p493in907</idno>
+    </bibl>
+    <bibl xml:id="h_114-bibl">
+     <ptr target="#txt_114-div"/>
+     <idno type="para">p546in894</idno>
+    </bibl>
+    <bibl xml:id="h_115-bibl">
+     <ptr target="#txt_115-div"/>
+     <idno type="para">p31in64</idno>
+    </bibl>
+    <bibl xml:id="h_116-bibl">
+     <ptr target="#txt_116-div"/>
+     <idno type="para">p120in213</idno>
+    </bibl>
+    <bibl xml:id="h_117-bibl">
+     <ptr target="#txt_117-div"/>
+     <idno type="para">p493in927</idno>
+    </bibl>
+    <bibl xml:id="h_118-bibl">
+     <ptr target="#txt_118-div"/>
+     <idno type="para">p83in159</idno>
+    </bibl>
+    <bibl xml:id="h_119-bibl">
+     <ptr target="#txt_119-div"/>
+     <idno type="para">p375in751</idno>
+    </bibl>
+    <bibl xml:id="h_120-bibl">
+     <ptr target="#txt_120-div"/>
+     <idno type="para">p404in876</idno>
+    </bibl>
+    <bibl xml:id="h_121-bibl">
+     <ptr target="#txt_121-div"/>
+     <idno type="para">p19in48</idno>
+    </bibl>
+    <bibl xml:id="h_122-bibl">
+     <ptr target="#txt_122-div"/>
+     <idno type="para">p245in385</idno>
+    </bibl>
+    <bibl xml:id="h_123-bibl">
+     <ptr target="#txt_123-div"/>
+     <idno type="para">p383in793</idno>
+    </bibl>
+    <bibl xml:id="h_124-bibl">
+     <ptr target="#txt_124-div"/>
+     <idno type="para">p13in46</idno>
+    </bibl>
+    <bibl xml:id="h_125-bibl">
+     <ptr target="#txt_125-div"/>
+     <idno type="para">p610in1049</idno>
+    </bibl>
+    <bibl xml:id="h_126-bibl">
+     <ptr target="#txt_126-div"/>
+     <idno type="para">p132in219</idno>
+    </bibl>
+    <bibl xml:id="h_127-bibl">
+     <ptr target="#txt_127-div"/>
+     <idno type="para">p607in1135</idno>
+    </bibl>
+    <bibl xml:id="h_128-bibl">
+     <ptr target="#txt_128-div"/>
+     <idno type="para">p6in23</idno>
+    </bibl>
+    <bibl xml:id="h_129-bibl">
+     <ptr target="#txt_129-div"/>
+     <idno type="para">p319in630</idno>
+    </bibl>
+    <bibl xml:id="h_130-bibl">
+     <ptr target="#txt_130-div"/>
+     <idno type="para">p373in707</idno>
+    </bibl>
+    <bibl xml:id="h_131-bibl">
+     <ptr target="#txt_131-div"/>
+     <idno type="para">p273in419</idno>
+    </bibl>
+    <bibl xml:id="h_132-bibl">
+     <ptr target="#txt_132-div"/>
+     <idno type="para">p6in23</idno>
+    </bibl>
+    <bibl xml:id="h_133-bibl">
+     <ptr target="#txt_133-div"/>
+     <idno type="para">p222in331</idno>
+    </bibl>
+    <bibl xml:id="h_134-bibl">
+     <ptr target="#txt_134-div"/>
+     <idno type="para">p1005in1705</idno>
+    </bibl>
+    <bibl xml:id="h_135-bibl">
+     <ptr target="#txt_135-div"/>
+     <idno type="para">p236in437</idno>
+    </bibl>
+    <bibl xml:id="h_136-bibl">
+     <ptr target="#txt_136-div"/>
+     <idno type="para">p520in956</idno>
+    </bibl>
+    <bibl xml:id="h_137-bibl">
+     <ptr target="#txt_137-div"/>
+     <idno type="para">p31in81</idno>
+    </bibl>
+    <bibl xml:id="h_138-bibl">
+     <ptr target="#txt_138-div"/>
+     <idno type="para">p121in197</idno>
+    </bibl>
+    <bibl xml:id="h_139-bibl">
+     <ptr target="#txt_139-div"/>
+     <idno type="para">p456in847</idno>
+    </bibl>
+    <bibl xml:id="h_140-bibl">
+     <ptr target="#txt_140-div"/>
+     <idno type="para">p399in598</idno>
+    </bibl>
+    <bibl xml:id="h_141-bibl">
+     <ptr target="#txt_141-div"/>
+     <idno type="para">p108in168</idno>
+    </bibl>
+    <bibl xml:id="h_142-bibl">
+     <ptr target="#txt_142-div"/>
+     <idno type="para">p144in268</idno>
+    </bibl>
+    <bibl xml:id="h_143-bibl">
+     <ptr target="#txt_143-div"/>
+     <idno type="para">p63in123</idno>
+    </bibl>
+    <bibl xml:id="h_144-bibl">
+     <ptr target="#txt_144-div"/>
+     <idno type="para">p40in89</idno>
+    </bibl>
+    <bibl xml:id="h_145-bibl">
+     <ptr target="#txt_145-div"/>
+     <idno type="para">p76in120</idno>
+    </bibl>
+    <bibl xml:id="h_146-bibl">
+     <ptr target="#txt_146-div"/>
+     <idno type="para">p19in52</idno>
+    </bibl>
+    <bibl xml:id="h_147-bibl">
+     <ptr target="#txt_147-div"/>
+     <idno type="para">p366in688</idno>
+    </bibl>
+    <bibl xml:id="h_148-bibl">
+     <ptr target="#txt_148-div"/>
+     <idno type="para">p137in245</idno>
+    </bibl>
+    <bibl xml:id="h_149-bibl">
+     <ptr target="#txt_149-div"/>
+     <idno type="para">p663in1033</idno>
+    </bibl>
+    <bibl xml:id="h_150-bibl">
+     <ptr target="#txt_150-div"/>
+     <idno type="para">p427in701</idno>
+    </bibl>
+    <bibl xml:id="h_151-bibl">
+     <ptr target="#txt_151-div"/>
+     <idno type="para">p58in91</idno>
+    </bibl>
+    <bibl xml:id="h_152-bibl">
+     <ptr target="#txt_152-div"/>
+     <idno type="para">p376in720</idno>
+    </bibl>
+    <bibl xml:id="h_153-bibl">
+     <ptr target="#txt_153-div"/>
+     <idno type="para">p420in779</idno>
+    </bibl>
+    <bibl xml:id="h_154-bibl">
+     <ptr target="#txt_154-div"/>
+     <idno type="para">p34in99</idno>
+    </bibl>
+    <bibl xml:id="h_155-bibl">
+     <ptr target="#txt_155-div"/>
+     <idno type="para">p313in581</idno>
+    </bibl>
+    <bibl xml:id="h_156-bibl">
+     <ptr target="#txt_156-div"/>
+     <idno type="para">p242in430</idno>
+    </bibl>
+    <bibl xml:id="h_157-bibl">
+     <ptr target="#txt_157-div"/>
+     <idno type="para">p46in90</idno>
+    </bibl>
+    <bibl xml:id="h_158-bibl">
+     <ptr target="#txt_158-div"/>
+     <idno type="para">p305in553</idno>
+    </bibl>
+    <bibl xml:id="h_159-bibl">
+     <ptr target="#txt_159-div"/>
+     <idno type="para">p77in137</idno>
+    </bibl>
+    <bibl xml:id="h_160-bibl">
+     <ptr target="#txt_160-div"/>
+     <idno type="para">p212in361</idno>
+    </bibl>
+    <bibl xml:id="h_161-bibl">
+     <ptr target="#txt_161-div"/>
+     <idno type="para">p12in45</idno>
+    </bibl>
+    <bibl xml:id="h_162-bibl">
+     <ptr target="#txt_162-div"/>
+     <idno type="para">p314in529</idno>
+    </bibl>
+    <bibl xml:id="h_163-bibl">
+     <ptr target="#txt_163-div"/>
+     <idno type="para">p337in568</idno>
+    </bibl>
+    <bibl xml:id="h_164-bibl">
+     <ptr target="#txt_164-div"/>
+     <idno type="para">p130in265</idno>
+    </bibl>
+    <bibl xml:id="h_165-bibl">
+     <ptr target="#txt_165-div"/>
+     <idno type="para">p110in186</idno>
+    </bibl>
+    <bibl xml:id="h_166-bibl">
+     <ptr target="#txt_166-div"/>
+     <idno type="para">p27in60</idno>
+    </bibl>
+    <bibl xml:id="h_167-bibl">
+     <ptr target="#txt_167-div"/>
+     <idno type="para">p362in766</idno>
+    </bibl>
+    <bibl xml:id="h_168-bibl">
+     <ptr target="#txt_168-div"/>
+     <idno type="para">p569in1047</idno>
+    </bibl>
+    <bibl xml:id="h_169-bibl">
+     <ptr target="#txt_169-div"/>
+     <idno type="para">p387in721</idno>
+    </bibl>
+    <bibl xml:id="h_170-bibl">
+     <ptr target="#txt_170-div"/>
+     <idno type="para">p382in629</idno>
+    </bibl>
+    <bibl xml:id="h_171-bibl">
+     <ptr target="#txt_171-div"/>
+     <idno type="para">p245in390</idno>
+    </bibl>
+    <bibl xml:id="h_172-bibl">
+     <ptr target="#txt_172-div"/>
+     <idno type="para">p184in383</idno>
+    </bibl>
+    <bibl xml:id="h_173-bibl">
+     <ptr target="#txt_173-div"/>
+     <idno type="para">p192in332</idno>
+    </bibl>
+    <bibl xml:id="h_174-bibl">
+     <ptr target="#txt_174-div"/>
+     <idno type="para">p606in955</idno>
+    </bibl>
+    <bibl xml:id="h_175-bibl">
+     <ptr target="#txt_175-div"/>
+     <idno type="para">p1049in1628</idno>
+    </bibl>
+    <bibl xml:id="h_176-bibl">
+     <ptr target="#txt_176-div"/>
+     <idno type="para">p196in389</idno>
+    </bibl>
+    <bibl xml:id="h_177-bibl">
+     <ptr target="#txt_177-div"/>
+     <idno type="para">p298in534</idno>
+    </bibl>
+    <bibl xml:id="h_178-bibl">
+     <ptr target="#txt_178-div"/>
+     <idno type="para">p462in768</idno>
+    </bibl>
+    <bibl xml:id="h_179-bibl">
+     <ptr target="#txt_179-div"/>
+     <idno type="para">p184in292</idno>
+    </bibl>
+    <bibl xml:id="h_180-bibl">
+     <ptr target="#txt_180-div"/>
+     <idno type="para">p34in67</idno>
+    </bibl>
+    <bibl xml:id="h_181-bibl">
+     <ptr target="#txt_181-div"/>
+     <idno type="para">p33in50</idno>
+    </bibl>
+    <bibl xml:id="h_182-bibl">
+     <ptr target="#txt_182-div"/>
+     <idno type="para">p342in530</idno>
+    </bibl>
+    <bibl xml:id="h_183-bibl">
+     <ptr target="#txt_183-div"/>
+     <idno type="para">p390in829</idno>
+    </bibl>
+    <bibl xml:id="h_184-bibl">
+     <ptr target="#txt_184-div"/>
+     <idno type="para">p2in19</idno>
+    </bibl>
+    <bibl xml:id="h_185-bibl">
+     <ptr target="#txt_185-div"/>
+     <idno type="para">p282in535</idno>
+    </bibl>
+    <bibl xml:id="h_186-bibl">
+     <ptr target="#txt_186-div"/>
+     <idno type="para">p363in695</idno>
+    </bibl>
+    <bibl xml:id="h_187-bibl">
+     <ptr target="#txt_187-div"/>
+     <idno type="para">p283in498</idno>
+    </bibl>
+    <bibl xml:id="h_188-bibl">
+     <ptr target="#txt_188-div"/>
+     <idno type="para">p461in676</idno>
+    </bibl>
+    <bibl xml:id="h_189-bibl">
+     <ptr target="#txt_189-div"/>
+     <idno type="para">p459in973</idno>
+    </bibl>
+    <bibl xml:id="h_190-bibl">
+     <ptr target="#txt_190-div"/>
+     <idno type="para">p220in419</idno>
+    </bibl>
+    <bibl xml:id="h_191-bibl">
+     <ptr target="#txt_191-div"/>
+     <idno type="para">p597in1074</idno>
+    </bibl>
+    <bibl xml:id="h_192-bibl">
+     <ptr target="#txt_192-div"/>
+     <idno type="para">p445in952</idno>
+    </bibl>
+    <bibl xml:id="h_193-bibl">
+     <ptr target="#txt_193-div"/>
+     <idno type="para">p379in653</idno>
+    </bibl>
+    <bibl xml:id="h_194-bibl">
+     <ptr target="#txt_194-div"/>
+     <idno type="para">p484in865</idno>
+    </bibl>
+    <bibl xml:id="h_195-bibl">
+     <ptr target="#txt_195-div"/>
+     <idno type="para">p266in487</idno>
+    </bibl>
+    <bibl xml:id="h_196-bibl">
+     <ptr target="#txt_196-div"/>
+     <idno type="para">p107in231</idno>
+    </bibl>
+    <bibl xml:id="h_197-bibl">
+     <ptr target="#txt_197-div"/>
+     <idno type="para">p167in308</idno>
+    </bibl>
+    <bibl xml:id="h_198-bibl">
+     <ptr target="#txt_198-div"/>
+     <idno type="para">p202in358</idno>
+    </bibl>
+    <bibl xml:id="h_199-bibl">
+     <ptr target="#txt_199-div"/>
+     <idno type="para">p68in133</idno>
+    </bibl>
+    <bibl xml:id="h_200-bibl">
+     <ptr target="#txt_200-div"/>
+     <idno type="para">p139in279</idno>
+    </bibl>
+    <bibl xml:id="h_201-bibl">
+     <ptr target="#txt_201-div"/>
+     <idno type="para">p138in230</idno>
+    </bibl>
+    <bibl xml:id="h_202-bibl">
+     <ptr target="#txt_202-div"/>
+     <idno type="para">p99in159</idno>
+    </bibl>
+    <bibl xml:id="h_203-bibl">
+     <ptr target="#txt_203-div"/>
+     <idno type="para">p467in876</idno>
+    </bibl>
+    <bibl xml:id="h_204-bibl">
+     <ptr target="#txt_204-div"/>
+     <idno type="para">p533in1032</idno>
+    </bibl>
+    <bibl xml:id="h_205-bibl">
+     <ptr target="#txt_205-div"/>
+     <idno type="para">p261in515</idno>
+    </bibl>
+    <bibl xml:id="h_206-bibl">
+     <ptr target="#txt_206-div"/>
+     <idno type="para">p425in753</idno>
+    </bibl>
+    <bibl xml:id="h_207-bibl">
+     <ptr target="#txt_207-div"/>
+     <idno type="para">p335in579</idno>
+    </bibl>
+    <bibl xml:id="h_208-bibl">
+     <ptr target="#txt_208-div"/>
+     <idno type="para">p26in59</idno>
+    </bibl>
+    <bibl xml:id="h_209-bibl">
+     <ptr target="#txt_209-div"/>
+     <idno type="para">p538in1015</idno>
+    </bibl>
+    <bibl xml:id="h_210-bibl">
+     <ptr target="#txt_210-div"/>
+     <idno type="para">p147in240</idno>
+    </bibl>
+    <bibl xml:id="h_211-bibl">
+     <ptr target="#txt_211-div"/>
+     <idno type="para">p215in403</idno>
+    </bibl>
+    <bibl xml:id="h_212-bibl">
+     <ptr target="#txt_212-div"/>
+     <idno type="para">p547in917</idno>
+    </bibl>
+    <bibl xml:id="h_213-bibl">
+     <ptr target="#txt_213-div"/>
+     <idno type="para">p131in255</idno>
+    </bibl>
+    <bibl xml:id="h_214-bibl">
+     <ptr target="#txt_214-div"/>
+     <idno type="para">p288in455</idno>
+    </bibl>
+    <bibl xml:id="h_215-bibl">
+     <ptr target="#txt_215-div"/>
+     <idno type="para">p375in734</idno>
+    </bibl>
+    <bibl xml:id="h_216-bibl">
+     <ptr target="#txt_216-div"/>
+     <idno type="para">p19in52</idno>
+    </bibl>
+    <bibl xml:id="h_217-bibl">
+     <ptr target="#txt_217-div"/>
+     <idno type="para">p35in68</idno>
+    </bibl>
+    <bibl xml:id="h_218-bibl">
+     <ptr target="#txt_218-div"/>
+     <idno type="para">p3in20</idno>
+    </bibl>
+    <bibl xml:id="h_219-bibl">
+     <ptr target="#txt_219-div"/>
+     <idno type="para">p422in702</idno>
+    </bibl>
+    <bibl xml:id="h_220-bibl">
+     <ptr target="#txt_220-div"/>
+     <idno type="para">p72in133</idno>
+    </bibl>
+    <bibl xml:id="h_221-bibl">
+     <ptr target="#txt_221-div"/>
+     <idno type="para">p145in264</idno>
+    </bibl>
+    <bibl xml:id="h_222-bibl">
+     <ptr target="#txt_222-div"/>
+     <idno type="para">p347in648</idno>
+    </bibl>
+    <bibl xml:id="h_223-bibl">
+     <ptr target="#txt_223-div"/>
+     <idno type="para">p96in236</idno>
+    </bibl>
+    <bibl xml:id="h_224-bibl">
+     <ptr target="#txt_224-div"/>
+     <idno type="para">p263in478</idno>
+    </bibl>
+    <bibl xml:id="h_225-bibl">
+     <ptr target="#txt_225-div"/>
+     <idno type="para">p453in775</idno>
+    </bibl>
+    <bibl xml:id="h_226-bibl">
+     <ptr target="#txt_226-div"/>
+     <idno type="para">p374in685</idno>
+    </bibl>
+    <bibl xml:id="h_227-bibl">
+     <ptr target="#txt_227-div"/>
+     <idno type="para">p571in968</idno>
+    </bibl>
+    <bibl xml:id="h_228-bibl">
+     <ptr target="#txt_228-div"/>
+     <idno type="para">p581in1049</idno>
+    </bibl>
+    <bibl xml:id="h_229-bibl">
+     <ptr target="#txt_229-div"/>
+     <idno type="para">p225in408</idno>
+    </bibl>
+    <bibl xml:id="h_230-bibl">
+     <ptr target="#txt_230-div"/>
+     <idno type="para">p197in369</idno>
+    </bibl>
+    <bibl xml:id="h_231-bibl">
+     <ptr target="#txt_231-div"/>
+     <idno type="para">p12in45</idno>
+    </bibl>
+    <bibl xml:id="h_232-bibl">
+     <ptr target="#txt_232-div"/>
+     <idno type="para">p335in646</idno>
+    </bibl>
+    <bibl xml:id="h_233-bibl">
+     <ptr target="#txt_233-div"/>
+     <idno type="para">p46in111</idno>
+    </bibl>
+    <bibl xml:id="h_234-bibl">
+     <ptr target="#txt_234-div"/>
+     <idno type="para">p271in454</idno>
+    </bibl>
+    <bibl xml:id="h_235-bibl">
+     <ptr target="#txt_235-div"/>
+     <idno type="para">p78in154</idno>
+    </bibl>
+    <bibl xml:id="h_236-bibl">
+     <ptr target="#txt_236-div"/>
+     <idno type="para">p227in367</idno>
+    </bibl>
+    <bibl xml:id="h_237-bibl">
+     <ptr target="#txt_237-div"/>
+     <idno type="para">p251in401</idno>
+    </bibl>
+    <bibl xml:id="h_238-bibl">
+     <ptr target="#txt_238-div"/>
+     <idno type="para">p53in103</idno>
+    </bibl>
+    <bibl xml:id="h_239-bibl">
+     <ptr target="#txt_239-div"/>
+     <idno type="para">p468in989</idno>
+    </bibl>
+    <bibl xml:id="h_240-bibl">
+     <ptr target="#txt_240-div"/>
+     <idno type="para">p15in32</idno>
+    </bibl>
+    <bibl xml:id="h_241-bibl">
+     <ptr target="#txt_241-div"/>
+     <idno type="para">p545in984</idno>
+    </bibl>
+    <bibl xml:id="h_242-bibl">
+     <ptr target="#txt_242-div"/>
+     <idno type="para">p428in824</idno>
+    </bibl>
+    <bibl xml:id="h_243-bibl">
+     <ptr target="#txt_243-div"/>
+     <idno type="para">p8in25</idno>
+    </bibl>
+    <bibl xml:id="h_244-bibl">
+     <ptr target="#txt_244-div"/>
+     <idno type="para">p697in1040</idno>
+    </bibl>
+    <bibl xml:id="h_245-bibl">
+     <ptr target="#txt_245-div"/>
+     <idno type="para">p157in265</idno>
+    </bibl>
+    <bibl xml:id="h_246-bibl">
+     <ptr target="#txt_246-div"/>
+     <idno type="para">p7in24</idno>
+    </bibl>
+    <bibl xml:id="h_247-bibl">
+     <ptr target="#txt_247-div"/>
+     <idno type="para">p278in461</idno>
+    </bibl>
+    <bibl xml:id="h_248-bibl">
+     <ptr target="#txt_248-div"/>
+     <idno type="para">p155in264</idno>
+    </bibl>
+    <bibl xml:id="h_249-bibl">
+     <ptr target="#txt_249-div"/>
+     <idno type="para">p417in841</idno>
+    </bibl>
+    <bibl xml:id="h_250-bibl">
+     <ptr target="#txt_250-div"/>
+     <idno type="para">p42in76</idno>
+    </bibl>
+    <bibl xml:id="h_251-bibl">
+     <ptr target="#txt_251-div"/>
+     <idno type="para">p196in384</idno>
+    </bibl>
+    <bibl xml:id="h_252-bibl">
+     <ptr target="#txt_252-div"/>
+     <idno type="para">p429in879</idno>
+    </bibl>
+    <bibl xml:id="h_253-bibl">
+     <ptr target="#txt_253-div"/>
+     <idno type="para">p282in604</idno>
+    </bibl>
+    <bibl xml:id="h_254-bibl">
+     <ptr target="#txt_254-div"/>
+     <idno type="para">p386in740</idno>
+    </bibl>
+    <bibl xml:id="h_255-bibl">
+     <ptr target="#txt_255-div"/>
+     <idno type="para">p324in651</idno>
+    </bibl>
+    <bibl xml:id="h_256-bibl">
+     <ptr target="#txt_256-div"/>
+     <idno type="para">p311in531</idno>
+    </bibl>
+    <bibl xml:id="h_257-bibl">
+     <ptr target="#txt_257-div"/>
+     <idno type="para">p444in819</idno>
+    </bibl>
+    <bibl xml:id="h_258-bibl">
+     <ptr target="#txt_258-div"/>
+     <idno type="para">p504in918</idno>
+    </bibl>
+    <bibl xml:id="h_259-bibl">
+     <ptr target="#txt_259-div"/>
+     <idno type="para">p553in880</idno>
+    </bibl>
+    <bibl xml:id="h_260-bibl">
+     <ptr target="#txt_260-div"/>
+     <idno type="para">p454in938</idno>
+    </bibl>
+    <bibl xml:id="h_261-bibl">
+     <ptr target="#txt_261-div"/>
+     <idno type="para">p444in881</idno>
+    </bibl>
+    <bibl xml:id="h_262-bibl">
+     <ptr target="#txt_262-div"/>
+     <idno type="para">p478in913</idno>
+    </bibl>
+    <bibl xml:id="h_263-bibl">
+     <ptr target="#txt_263-div"/>
+     <idno type="para">p531in868</idno>
+    </bibl>
+    <bibl xml:id="h_264-bibl">
+     <ptr target="#txt_264-div"/>
+     <idno type="para">p548in1057</idno>
+    </bibl>
+    <bibl xml:id="h_265-bibl">
+     <ptr target="#txt_265-div"/>
+     <idno type="para">p339in683</idno>
+    </bibl>
+    <bibl xml:id="h_266-bibl">
+     <ptr target="#txt_266-div"/>
+     <idno type="para">p90in140</idno>
+    </bibl>
+    <bibl xml:id="h_267-bibl">
+     <ptr target="#txt_267-div"/>
+     <idno type="para">p327in579</idno>
+    </bibl>
+    <bibl xml:id="h_268-bibl">
+     <ptr target="#txt_268-div"/>
+     <idno type="para">p406in647</idno>
+    </bibl>
+    <bibl xml:id="h_269-bibl">
+     <ptr target="#txt_269-div"/>
+     <idno type="para">p103in179</idno>
+    </bibl>
+    <bibl xml:id="h_270-bibl">
+     <ptr target="#txt_270-div"/>
+     <idno type="para">p333in651</idno>
+    </bibl>
+    <bibl xml:id="h_271-bibl">
+     <ptr target="#txt_271-div"/>
+     <idno type="para">p535in1002</idno>
+    </bibl>
+    <bibl xml:id="h_272-bibl">
+     <ptr target="#txt_272-div"/>
+     <idno type="para">p715in1122</idno>
+    </bibl>
+    <bibl xml:id="h_273-bibl">
+     <ptr target="#txt_273-div"/>
+     <idno type="para">p354in580</idno>
+    </bibl>
+    <bibl xml:id="h_274-bibl">
+     <ptr target="#txt_274-div"/>
+     <idno type="para">p327in591</idno>
+    </bibl>
+    <bibl xml:id="h_275-bibl">
+     <ptr target="#txt_275-div"/>
+     <idno type="para">p570in865</idno>
+    </bibl>
+    <bibl xml:id="h_276-bibl">
+     <ptr target="#txt_276-div"/>
+     <idno type="para">p141in228</idno>
+    </bibl>
+    <bibl xml:id="h_277-bibl">
+     <ptr target="#txt_277-div"/>
+     <idno type="para">p205in410</idno>
+    </bibl>
+    <bibl xml:id="h_278-bibl">
+     <ptr target="#txt_278-div"/>
+     <idno type="para">p457in843</idno>
+    </bibl>
+    <bibl xml:id="h_279-bibl">
+     <ptr target="#txt_279-div"/>
+     <idno type="para">p476in835</idno>
+    </bibl>
+    <bibl xml:id="h_280-bibl">
+     <ptr target="#txt_280-div"/>
+     <idno type="para">p137in245</idno>
+    </bibl>
+    <bibl xml:id="h_281-bibl">
+     <ptr target="#txt_281-div"/>
+     <idno type="para">p34in99</idno>
+    </bibl>
+    <bibl xml:id="h_282-bibl">
+     <ptr target="#txt_282-div"/>
+     <idno type="para">p580in940</idno>
+    </bibl>
+    <bibl xml:id="h_283-bibl">
+     <ptr target="#txt_283-div"/>
+     <idno type="para">p85in177</idno>
+    </bibl>
+    <bibl xml:id="h_284-bibl">
+     <ptr target="#txt_284-div"/>
+     <idno type="para">p692in1024</idno>
+    </bibl>
+    <bibl xml:id="h_285-bibl">
+     <ptr target="#txt_285-div"/>
+     <idno type="para">p83in170</idno>
+    </bibl>
+    <bibl xml:id="h_286-bibl">
+     <ptr target="#txt_286-div"/>
+     <idno type="para">p75in135</idno>
+    </bibl>
+    <bibl xml:id="h_287-bibl">
+     <ptr target="#txt_287-div"/>
+     <idno type="para">p89in181</idno>
+    </bibl>
+    <bibl xml:id="h_288-bibl">
+     <ptr target="#txt_288-div"/>
+     <idno type="para">p460in933</idno>
+    </bibl>
+    <bibl xml:id="h_289-bibl">
+     <ptr target="#txt_289-div"/>
+     <idno type="para">p505in864</idno>
+    </bibl>
+    <bibl xml:id="h_290-bibl">
+     <ptr target="#txt_290-div"/>
+     <idno type="para">p63in112</idno>
+    </bibl>
+    <bibl xml:id="h_291-bibl">
+     <ptr target="#txt_291-div"/>
+     <idno type="para">p74in151</idno>
+    </bibl>
+    <bibl xml:id="h_292-bibl">
+     <ptr target="#txt_292-div"/>
+     <idno type="para">p73in138</idno>
+    </bibl>
+    <bibl xml:id="h_293-bibl">
+     <ptr target="#txt_293-div"/>
+     <idno type="para">p154in294</idno>
+    </bibl>
+    <bibl xml:id="h_294-bibl">
+     <ptr target="#txt_294-div"/>
+     <idno type="para">p117in226</idno>
+    </bibl>
+    <bibl xml:id="h_295-bibl">
+     <ptr target="#txt_295-div"/>
+     <idno type="para">p145in253</idno>
+    </bibl>
+    <bibl xml:id="h_296-bibl">
+     <ptr target="#txt_296-div"/>
+     <idno type="para">p160in279</idno>
+    </bibl>
+    <bibl xml:id="h_297-bibl">
+     <ptr target="#txt_297-div"/>
+     <idno type="para">p177in301</idno>
+    </bibl>
+    <bibl xml:id="h_298-bibl">
+     <ptr target="#txt_298-div"/>
+     <idno type="para">p227in458</idno>
+    </bibl>
+    <bibl xml:id="h_299-bibl">
+     <ptr target="#txt_299-div"/>
+     <idno type="para">p236in440</idno>
+    </bibl>
+    <bibl xml:id="h_300-bibl">
+     <ptr target="#txt_300-div"/>
+     <idno type="para">p292in576</idno>
+    </bibl>
+    <bibl xml:id="h_301-bibl">
+     <ptr target="#txt_301-div"/>
+     <idno type="para">p262in478</idno>
+    </bibl>
+    <bibl xml:id="h_302-bibl">
+     <ptr target="#txt_302-div"/>
+     <idno type="para">p150in317</idno>
+    </bibl>
+    <bibl xml:id="h_303-bibl">
+     <ptr target="#txt_303-div"/>
+     <idno type="para">p181in275</idno>
+    </bibl>
+    <bibl xml:id="h_304-bibl">
+     <ptr target="#txt_304-div"/>
+     <idno type="para">p522in956</idno>
+    </bibl>
+    <bibl xml:id="h_305-bibl">
+     <ptr target="#txt_305-div"/>
+     <idno type="para">p47in96</idno>
+    </bibl>
+    <bibl xml:id="h_306-bibl">
+     <ptr target="#txt_306-div"/>
+     <idno type="para">p277in481</idno>
+    </bibl>
+    <bibl xml:id="h_307-bibl">
+     <ptr target="#txt_307-div"/>
+     <idno type="para">p68in133</idno>
+    </bibl>
+    <bibl xml:id="h_308-bibl">
+     <ptr target="#txt_308-div"/>
+     <idno type="para">p348in542</idno>
+    </bibl>
+    <bibl xml:id="h_309-bibl">
+     <ptr target="#txt_309-div"/>
+     <idno type="para">p40in89</idno>
+    </bibl>
+    <bibl xml:id="h_310-bibl">
+     <ptr target="#txt_310-div"/>
+     <idno type="para">p477in918</idno>
+    </bibl>
+    <bibl xml:id="h_311-bibl">
+     <ptr target="#txt_311-div"/>
+     <idno type="para">p48in81</idno>
+    </bibl>
+    <bibl xml:id="h_312-bibl">
+     <ptr target="#txt_312-div"/>
+     <idno type="para">p417in788</idno>
+    </bibl>
+    <bibl xml:id="h_313-bibl">
+     <ptr target="#txt_313-div"/>
+     <idno type="para">p214in365</idno>
+    </bibl>
+    <bibl xml:id="h_314-bibl">
+     <ptr target="#txt_314-div"/>
+     <idno type="para">p212in385</idno>
+    </bibl>
+    <bibl xml:id="h_315-bibl">
+     <ptr target="#txt_315-div"/>
+     <idno type="para">p23in56</idno>
+    </bibl>
+    <bibl xml:id="h_316-bibl">
+     <ptr target="#txt_316-div"/>
+     <idno type="para">p530in967</idno>
+    </bibl>
+    <bibl xml:id="h_317-bibl">
+     <ptr target="#txt_317-div"/>
+     <idno type="para">p533in946</idno>
+    </bibl>
+    <bibl xml:id="h_318-bibl">
+     <ptr target="#txt_318-div"/>
+     <idno type="para">p504in890</idno>
+    </bibl>
+    <bibl xml:id="h_319-bibl">
+     <ptr target="#txt_319-div"/>
+     <idno type="para">p53in115</idno>
+    </bibl>
+    <bibl xml:id="h_320-bibl">
+     <ptr target="#txt_320-div"/>
+     <idno type="para">p53in108</idno>
+    </bibl>
+    <bibl xml:id="h_321-bibl">
+     <ptr target="#txt_321-div"/>
+     <idno type="para">p509in1004</idno>
+    </bibl>
+    <bibl xml:id="h_322-bibl">
+     <ptr target="#txt_322-div"/>
+     <idno type="para">p375in672</idno>
+    </bibl>
+    <bibl xml:id="h_323-bibl">
+     <ptr target="#txt_323-div"/>
+     <idno type="para">p172in296</idno>
+    </bibl>
+    <bibl xml:id="h_324-bibl">
+     <ptr target="#txt_324-div"/>
+     <idno type="para">p430in790</idno>
+    </bibl>
+    <bibl xml:id="h_325-bibl">
+     <ptr target="#txt_325-div"/>
+     <idno type="para">p127in235</idno>
+    </bibl>
+    <bibl xml:id="h_326-bibl">
+     <ptr target="#txt_326-div"/>
+     <idno type="para">p530in777</idno>
+    </bibl>
+    <bibl xml:id="h_327-bibl">
+     <ptr target="#txt_327-div"/>
+     <idno type="para">p151in324</idno>
+    </bibl>
+    <bibl xml:id="h_328-bibl">
+     <ptr target="#txt_328-div"/>
+     <idno type="para">p198in370</idno>
+    </bibl>
+    <bibl xml:id="h_329-bibl">
+     <ptr target="#txt_329-div"/>
+     <idno type="para">p152in244</idno>
+    </bibl>
+    <bibl xml:id="h_330-bibl">
+     <ptr target="#txt_330-div"/>
+     <idno type="para">p247in499</idno>
+    </bibl>
+    <bibl xml:id="h_331-bibl">
+     <ptr target="#txt_331-div"/>
+     <idno type="para">p329in581</idno>
+    </bibl>
+    <bibl xml:id="h_332-bibl">
+     <ptr target="#txt_332-div"/>
+     <idno type="para">p586in1063</idno>
+    </bibl>
+    <bibl xml:id="h_333-bibl">
+     <ptr target="#txt_333-div"/>
+     <idno type="para">p535in1061</idno>
+    </bibl>
+    <bibl xml:id="h_334-bibl">
+     <ptr target="#txt_334-div"/>
+     <idno type="para">p341in641</idno>
+    </bibl>
+    <bibl xml:id="h_335-bibl">
+     <ptr target="#txt_335-div"/>
+     <idno type="para">p465in1092</idno>
+    </bibl>
+    <bibl xml:id="h_336-bibl">
+     <ptr target="#txt_336-div"/>
+     <idno type="para">p30in79</idno>
+    </bibl>
+    <bibl xml:id="h_337-bibl">
+     <ptr target="#txt_337-div"/>
+     <idno type="para">p578in948</idno>
+    </bibl>
+    <bibl xml:id="h_338-bibl">
+     <ptr target="#txt_338-div"/>
+     <idno type="para">p303in556</idno>
+    </bibl>
+    <bibl xml:id="h_339-bibl">
+     <ptr target="#txt_339-div"/>
+     <idno type="para">p180in331</idno>
+    </bibl>
+    <bibl xml:id="h_340-bibl">
+     <ptr target="#txt_340-div"/>
+     <idno type="para">p209in392</idno>
+    </bibl>
+    <bibl xml:id="h_341-bibl">
+     <ptr target="#txt_341-div"/>
+     <idno type="para">p328in624</idno>
+    </bibl>
+    <bibl xml:id="h_342-bibl">
+     <ptr target="#txt_342-div"/>
+     <idno type="para">p372in780</idno>
+    </bibl>
+    <bibl xml:id="h_343-bibl">
+     <ptr target="#txt_343-div"/>
+     <idno type="para">p89in181</idno>
+    </bibl>
+    <bibl xml:id="h_344-bibl">
+     <ptr target="#txt_344-div"/>
+     <idno type="para">p407in718</idno>
+    </bibl>
+    <bibl xml:id="h_345-bibl">
+     <ptr target="#txt_345-div"/>
+     <idno type="para">p401in739</idno>
+    </bibl>
+    <bibl xml:id="h_346-bibl">
+     <ptr target="#txt_346-div"/>
+     <idno type="para">p354in682</idno>
+    </bibl>
+    <bibl xml:id="h_347-bibl">
+     <ptr target="#txt_347-div"/>
+     <idno type="para">p386in800</idno>
+    </bibl>
+    <bibl xml:id="h_348-bibl">
+     <ptr target="#txt_348-div"/>
+     <idno type="para">p83in144</idno>
+    </bibl>
+    <bibl xml:id="h_349-bibl">
+     <ptr target="#txt_349-div"/>
+     <idno type="para">p378in706</idno>
+    </bibl>
+    <bibl xml:id="h_350-bibl">
+     <ptr target="#txt_350-div"/>
+     <idno type="para">p525in1050</idno>
+    </bibl>
+    <bibl xml:id="h_351-bibl">
+     <ptr target="#txt_351-div"/>
+     <idno type="para">p520in955</idno>
+    </bibl>
+    <bibl xml:id="h_352-bibl">
+     <ptr target="#txt_352-div"/>
+     <idno type="para">p71in147</idno>
+    </bibl>
+    <bibl xml:id="h_353-bibl">
+     <ptr target="#txt_353-div"/>
+     <idno type="para">p276in571</idno>
+    </bibl>
+    <bibl xml:id="h_354-bibl">
+     <ptr target="#txt_354-div"/>
+     <idno type="para">p100in187</idno>
+    </bibl>
+    <bibl xml:id="h_355-bibl">
+     <ptr target="#txt_355-div"/>
+     <idno type="para">p229in444</idno>
+    </bibl>
+    <bibl xml:id="h_356-bibl">
+     <ptr target="#txt_356-div"/>
+     <idno type="para">p11in28</idno>
+    </bibl>
+    <bibl xml:id="h_357-bibl">
+     <ptr target="#txt_357-div"/>
+     <idno type="para">p654in1190</idno>
+    </bibl>
+    <bibl xml:id="h_358-bibl">
+     <ptr target="#txt_358-div"/>
+     <idno type="para">p449in841</idno>
+    </bibl>
+    <bibl xml:id="h_359-bibl">
+     <ptr target="#txt_359-div"/>
+     <idno type="para">p106in230</idno>
+    </bibl>
+    <bibl xml:id="h_360-bibl">
+     <ptr target="#txt_360-div"/>
+     <idno type="para">p15in48</idno>
+    </bibl>
+    <bibl xml:id="h_361-bibl">
+     <ptr target="#txt_361-div"/>
+     <idno type="para">p234in433</idno>
+    </bibl>
+    <bibl xml:id="h_362-bibl">
+     <ptr target="#txt_362-div"/>
+     <idno type="para">p82in174</idno>
+    </bibl>
+    <bibl xml:id="h_363-bibl">
+     <ptr target="#txt_363-div"/>
+     <idno type="para">p247in451</idno>
+    </bibl>
+    <bibl xml:id="h_364-bibl">
+     <ptr target="#txt_364-div"/>
+     <idno type="para">p304in557</idno>
+    </bibl>
+    <bibl xml:id="h_365-bibl">
+     <ptr target="#txt_365-div"/>
+     <idno type="para">p398in758</idno>
+    </bibl>
+    <bibl xml:id="h_366-bibl">
+     <ptr target="#txt_366-div"/>
+     <idno type="para">p442in813</idno>
+    </bibl>
+    <bibl xml:id="h_367-bibl">
+     <ptr target="#txt_367-div"/>
+     <idno type="para">p52in102</idno>
+    </bibl>
+    <bibl xml:id="h_368-bibl">
+     <ptr target="#txt_368-div"/>
+     <idno type="para">p43in60</idno>
+    </bibl>
+    <bibl xml:id="h_369-bibl">
+     <ptr target="#txt_369-div"/>
+     <idno type="para">p298in555</idno>
+    </bibl>
+    <bibl xml:id="h_370-bibl">
+     <ptr target="#txt_370-div"/>
+     <idno type="para">p239in427</idno>
+    </bibl>
+    <bibl xml:id="h_371-bibl">
+     <ptr target="#txt_371-div"/>
+     <idno type="para">p10in27</idno>
+    </bibl>
+    <bibl xml:id="h_372-bibl">
+     <ptr target="#txt_372-div"/>
+     <idno type="para">p283in530</idno>
+    </bibl>
+    <bibl xml:id="h_373-bibl">
+     <ptr target="#txt_373-div"/>
+     <idno type="para">p497in890</idno>
+    </bibl>
+    <bibl xml:id="h_374-bibl">
+     <ptr target="#txt_374-div"/>
+     <idno type="para">p73in133</idno>
+    </bibl>
+    <bibl xml:id="h_375-bibl">
+     <ptr target="#txt_375-div"/>
+     <idno type="para">p518in936</idno>
+    </bibl>
+    <bibl xml:id="h_376-bibl">
+     <ptr target="#txt_376-div"/>
+     <idno type="para">p272in487</idno>
+    </bibl>
+    <bibl xml:id="h_377-bibl">
+     <ptr target="#txt_377-div"/>
+     <idno type="para">p329in603</idno>
+    </bibl>
+    <bibl xml:id="h_378-bibl">
+     <ptr target="#txt_378-div"/>
+     <idno type="para">p367in680</idno>
+    </bibl>
+    <bibl xml:id="h_379-bibl">
+     <ptr target="#txt_379-div"/>
+     <idno type="para">p465in862</idno>
+    </bibl>
+    <bibl xml:id="h_380-bibl">
+     <ptr target="#txt_380-div"/>
+     <idno type="para">p196in321</idno>
+    </bibl>
+    <bibl xml:id="h_381-bibl">
+     <ptr target="#txt_381-div"/>
+     <idno type="para">p224in434</idno>
+    </bibl>
+    <bibl xml:id="h_382-bibl">
+     <ptr target="#txt_382-div"/>
+     <idno type="para">p252in473</idno>
+    </bibl>
+    <bibl xml:id="h_383-bibl">
+     <ptr target="#txt_383-div"/>
+     <idno type="para">p137in225</idno>
+    </bibl>
+    <bibl xml:id="h_384-bibl">
+     <ptr target="#txt_384-div"/>
+     <idno type="para">p206in421</idno>
+    </bibl>
+    <bibl xml:id="h_385-bibl">
+     <ptr target="#txt_385-div"/>
+     <idno type="para">p498in852</idno>
+    </bibl>
+    <bibl xml:id="h_386-bibl">
+     <ptr target="#txt_386-div"/>
+     <idno type="para">p418in833</idno>
+    </bibl>
+    <bibl xml:id="h_387-bibl">
+     <ptr target="#txt_387-div"/>
+     <idno type="para">p66in142</idno>
+    </bibl>
+    <bibl xml:id="h_388-bibl">
+     <ptr target="#txt_388-div"/>
+     <idno type="para">p158in336</idno>
+    </bibl>
+    <bibl xml:id="h_389-bibl">
+     <ptr target="#txt_389-div"/>
+     <idno type="para">p449in765</idno>
+    </bibl>
+    <bibl xml:id="h_390-bibl">
+     <ptr target="#txt_390-div"/>
+     <idno type="para">p40in84</idno>
+    </bibl>
+    <bibl xml:id="h_391-bibl">
+     <ptr target="#txt_391-div"/>
+     <idno type="para">p10in27</idno>
+    </bibl>
+    <bibl xml:id="h_392-bibl">
+     <ptr target="#txt_392-div"/>
+     <idno type="para">p496in932</idno>
+    </bibl>
+    <bibl xml:id="h_393-bibl">
+     <ptr target="#txt_393-div"/>
+     <idno type="para">p289in563</idno>
+    </bibl>
+    <bibl xml:id="h_394-bibl">
+     <ptr target="#txt_394-div"/>
+     <idno type="para">p363in658</idno>
+    </bibl>
+    <bibl xml:id="h_395-bibl">
+     <ptr target="#txt_395-div"/>
+     <idno type="para">p534in968</idno>
+    </bibl>
+    <bibl xml:id="h_396-bibl">
+     <ptr target="#txt_396-div"/>
+     <idno type="para">p100in187</idno>
+    </bibl>
+    <bibl xml:id="h_397-bibl">
+     <ptr target="#txt_397-div"/>
+     <idno type="para">p1045in1772</idno>
+    </bibl>
+    <bibl xml:id="h_398-bibl">
+     <ptr target="#txt_398-div"/>
+     <idno type="para">p219in450</idno>
+    </bibl>
+    <bibl xml:id="h_399-bibl">
+     <ptr target="#txt_399-div"/>
+     <idno type="para">p73in154</idno>
+    </bibl>
+    <bibl xml:id="h_400-bibl">
+     <ptr target="#txt_400-div"/>
+     <idno type="para">p417in762</idno>
+    </bibl>
+    <bibl xml:id="h_401-bibl">
+     <ptr target="#txt_401-div"/>
+     <idno type="para">p5in22</idno>
+    </bibl>
+    <bibl xml:id="h_402-bibl">
+     <ptr target="#txt_402-div"/>
+     <idno type="para">p296in431</idno>
+    </bibl>
+    <bibl xml:id="h_403-bibl">
+     <ptr target="#txt_403-div"/>
+     <idno type="para">p24in57</idno>
+    </bibl>
+    <bibl xml:id="h_404-bibl">
+     <ptr target="#txt_404-div"/>
+     <idno type="para">p390in829</idno>
+    </bibl>
+    <bibl xml:id="h_405-bibl">
+     <ptr target="#txt_405-div"/>
+     <idno type="para">p92in173</idno>
+    </bibl>
+    <bibl xml:id="h_406-bibl">
+     <ptr target="#txt_406-div"/>
+     <idno type="para">p150in274</idno>
+    </bibl>
+    <bibl xml:id="h_407-bibl">
+     <ptr target="#txt_407-div"/>
+     <idno type="para">p275in559</idno>
+    </bibl>
+    <bibl xml:id="h_408-bibl">
+     <ptr target="#txt_408-div"/>
+     <idno type="para">p282in584</idno>
+    </bibl>
+    <bibl xml:id="h_409-bibl">
+     <ptr target="#txt_409-div"/>
+     <idno type="para">p317in649</idno>
+    </bibl>
+    <bibl xml:id="h_410-bibl">
+     <ptr target="#txt_410-div"/>
+     <idno type="para">p270in587</idno>
+    </bibl>
+    <bibl xml:id="h_411-bibl">
+     <ptr target="#txt_411-div"/>
+     <idno type="para">p452in854</idno>
+    </bibl>
+    <bibl xml:id="h_412-bibl">
+     <ptr target="#txt_412-div"/>
+     <idno type="para">p173in362</idno>
+    </bibl>
+    <bibl xml:id="h_413-bibl">
+     <ptr target="#txt_413-div"/>
+     <idno type="para">p15in32</idno>
+    </bibl>
+    <bibl xml:id="h_414-bibl">
+     <ptr target="#txt_414-div"/>
+     <idno type="para">p371in698</idno>
+    </bibl>
+    <bibl xml:id="h_415-bibl">
+     <ptr target="#txt_415-div"/>
+     <idno type="para">p94in186</idno>
+    </bibl>
+    <bibl xml:id="h_416-bibl">
+     <ptr target="#txt_416-div"/>
+     <idno type="para">p190in341</idno>
+    </bibl>
+    <bibl xml:id="h_417-bibl">
+     <ptr target="#txt_417-div"/>
+     <idno type="para">p245in396</idno>
+    </bibl>
+    <bibl xml:id="h_418-bibl">
+     <ptr target="#txt_418-div"/>
+     <idno type="para">p287in550</idno>
+    </bibl>
+    <bibl xml:id="h_419-bibl">
+     <ptr target="#txt_419-div"/>
+     <idno type="para">p53in102</idno>
+    </bibl>
+    <bibl xml:id="h_420-bibl">
+     <ptr target="#txt_420-div"/>
+     <idno type="para">p114in217</idno>
+    </bibl>
+    <bibl xml:id="h_421-bibl">
+     <ptr target="#txt_421-div"/>
+     <idno type="para">p480in919</idno>
+    </bibl>
+    <bibl xml:id="h_422-bibl">
+     <ptr target="#txt_422-div"/>
+     <idno type="para">p203in343</idno>
+    </bibl>
+    <bibl xml:id="h_423-bibl">
+     <ptr target="#txt_423-div"/>
+     <idno type="para">p19in68</idno>
+    </bibl>
+    <bibl xml:id="h_424-bibl">
+     <ptr target="#txt_424-div"/>
+     <idno type="para">p105in204</idno>
+    </bibl>
+    <bibl xml:id="h_425-bibl">
+     <ptr target="#txt_425-div"/>
+     <idno type="para">p87in190</idno>
+    </bibl>
+    <bibl xml:id="h_426-bibl">
+     <ptr target="#txt_426-div"/>
+     <idno type="para">p521in1036</idno>
+    </bibl>
+    <bibl xml:id="h_427-bibl">
+     <ptr target="#txt_427-div"/>
+     <idno type="para">p471in917</idno>
+    </bibl>
+    <bibl xml:id="h_428-bibl">
+     <ptr target="#txt_428-div"/>
+     <idno type="para">p393in613</idno>
+    </bibl>
+    <bibl xml:id="h_429-bibl">
+     <ptr target="#txt_429-div"/>
+     <idno type="para">p354in638</idno>
+    </bibl>
+    <bibl xml:id="h_430-bibl">
+     <ptr target="#txt_430-div"/>
+     <idno type="para">p324in610</idno>
+    </bibl>
+    <bibl xml:id="h_431-bibl">
+     <ptr target="#txt_431-div"/>
+     <idno type="para">p654in1019</idno>
+    </bibl>
+    <bibl xml:id="h_432-bibl">
+     <ptr target="#txt_432-div"/>
+     <idno type="para">p24in73</idno>
+    </bibl>
+    <bibl xml:id="h_433-bibl">
+     <ptr target="#txt_433-div"/>
+     <idno type="para">p258in416</idno>
+    </bibl>
+    <bibl xml:id="h_434-bibl">
+     <ptr target="#txt_434-div"/>
+     <idno type="para">p480in894</idno>
+    </bibl>
+    <bibl xml:id="h_435-bibl">
+     <ptr target="#txt_435-div"/>
+     <idno type="para">p90in246</idno>
+    </bibl>
+    <bibl xml:id="h_436-bibl">
+     <ptr target="#txt_436-div"/>
+     <idno type="para">p272in525</idno>
+    </bibl>
+    <bibl xml:id="h_437-bibl">
+     <ptr target="#txt_437-div"/>
+     <idno type="para">p314in493</idno>
+    </bibl>
+    <bibl xml:id="h_438-bibl">
+     <ptr target="#txt_438-div"/>
+     <idno type="para">p197in380</idno>
+    </bibl>
+    <bibl xml:id="h_439-bibl">
+     <ptr target="#txt_439-div"/>
+     <idno type="para">p5in22</idno>
+    </bibl>
+    <bibl xml:id="h_440-bibl">
+     <ptr target="#txt_440-div"/>
+     <idno type="para">p435in688</idno>
+    </bibl>
+    <bibl xml:id="h_441-bibl">
+     <ptr target="#txt_441-div"/>
+     <idno type="para">p47in80</idno>
+    </bibl>
+    <bibl xml:id="h_442-bibl">
+     <ptr target="#txt_442-div"/>
+     <idno type="para">p88in212</idno>
+    </bibl>
+    <bibl xml:id="h_443-bibl">
+     <ptr target="#txt_443-div"/>
+     <idno type="para">p134in269</idno>
+    </bibl>
+    <bibl xml:id="h_444-bibl">
+     <ptr target="#txt_444-div"/>
+     <idno type="para">p515in1045</idno>
+    </bibl>
+    <bibl xml:id="h_445-bibl">
+     <ptr target="#txt_445-div"/>
+     <idno type="para">p261in460</idno>
+    </bibl>
+    <bibl xml:id="h_446-bibl">
+     <ptr target="#txt_446-div"/>
+     <idno type="para">p412in580</idno>
+    </bibl>
+    <bibl xml:id="h_447-bibl">
+     <ptr target="#txt_447-div"/>
+     <idno type="para">p52in112</idno>
+    </bibl>
+    <bibl xml:id="h_448-bibl">
+     <ptr target="#txt_448-div"/>
+     <idno type="para">p10in43</idno>
+    </bibl>
+    <bibl xml:id="h_449-bibl">
+     <ptr target="#txt_449-div"/>
+     <idno type="para">p348in696</idno>
+    </bibl>
+    <bibl xml:id="h_450-bibl">
+     <ptr target="#txt_450-div"/>
+     <idno type="para">p32in81</idno>
+    </bibl>
+    <bibl xml:id="h_451-bibl">
+     <ptr target="#txt_451-div"/>
+     <idno type="para">p384in658</idno>
+    </bibl>
+    <bibl xml:id="h_452-bibl">
+     <ptr target="#txt_452-div"/>
+     <idno type="para">p142in229</idno>
+    </bibl>
+    <bibl xml:id="h_453-bibl">
+     <ptr target="#txt_453-div"/>
+     <idno type="para">p655in1068</idno>
+    </bibl>
+    <bibl xml:id="h_454-bibl">
+     <ptr target="#txt_454-div"/>
+     <idno type="para">p382in646</idno>
+    </bibl>
+    <bibl xml:id="h_455-bibl">
+     <ptr target="#txt_455-div"/>
+     <idno type="para">p358in655</idno>
+    </bibl>
+    <bibl xml:id="h_456-bibl">
+     <ptr target="#txt_456-div"/>
+     <idno type="para">p82in126</idno>
+    </bibl>
+    <bibl xml:id="h_457-bibl">
+     <ptr target="#txt_457-div"/>
+     <idno type="para">p487in1019</idno>
+    </bibl>
+    <bibl xml:id="h_458-bibl">
+     <ptr target="#txt_458-div"/>
+     <idno type="para">p453in684</idno>
+    </bibl>
+    <bibl xml:id="h_459-bibl">
+     <ptr target="#txt_459-div"/>
+     <idno type="para">p270in501</idno>
+    </bibl>
+    <bibl xml:id="h_460-bibl">
+     <ptr target="#txt_460-div"/>
+     <idno type="para">p17in34</idno>
+    </bibl>
+    <bibl xml:id="h_461-bibl">
+     <ptr target="#txt_461-div"/>
+     <idno type="para">p614in1152</idno>
+    </bibl>
+    <bibl xml:id="h_462-bibl">
+     <ptr target="#txt_462-div"/>
+     <idno type="para">p480in946</idno>
+    </bibl>
+    <bibl xml:id="h_463-bibl">
+     <ptr target="#txt_463-div"/>
+     <idno type="para">p9in26</idno>
+    </bibl>
+    <bibl xml:id="h_464-bibl">
+     <ptr target="#txt_464-div"/>
+     <idno type="para">p619in1170</idno>
+    </bibl>
+    <bibl xml:id="h_465-bibl">
+     <ptr target="#txt_465-div"/>
+     <idno type="para">p309in593</idno>
+    </bibl>
+    <bibl xml:id="h_466-bibl">
+     <ptr target="#txt_466-div"/>
+     <idno type="para">p141in249</idno>
+    </bibl>
+    <bibl xml:id="h_467-bibl">
+     <ptr target="#txt_467-div"/>
+     <idno type="para">p499in1061</idno>
+    </bibl>
+    <bibl xml:id="h_468-bibl">
+     <ptr target="#txt_468-div"/>
+     <idno type="para">p500in935</idno>
+    </bibl>
+    <bibl xml:id="h_469-bibl">
+     <ptr target="#txt_469-div"/>
+     <idno type="para">p314in577</idno>
+    </bibl>
+    <bibl xml:id="h_470-bibl">
+     <ptr target="#txt_470-div"/>
+     <idno type="para">p500in913</idno>
+    </bibl>
+    <bibl xml:id="h_471-bibl">
+     <ptr target="#txt_471-div"/>
+     <idno type="para">p251in466</idno>
+    </bibl>
+    <bibl xml:id="h_472-bibl">
+     <ptr target="#txt_472-div"/>
+     <idno type="para">p47in123</idno>
+    </bibl>
+    <bibl xml:id="h_473-bibl">
+     <ptr target="#txt_473-div"/>
+     <idno type="para">p69in151</idno>
+    </bibl>
+    <bibl xml:id="h_474-bibl">
+     <ptr target="#txt_474-div"/>
+     <idno type="para">p471in864</idno>
+    </bibl>
+    <bibl xml:id="h_475-bibl">
+     <ptr target="#txt_475-div"/>
+     <idno type="para">p368in684</idno>
+    </bibl>
+    <bibl xml:id="h_476-bibl">
+     <ptr target="#txt_476-div"/>
+     <idno type="para">p62in111</idno>
+    </bibl>
+    <bibl xml:id="h_477-bibl">
+     <ptr target="#txt_477-div"/>
+     <idno type="para">p45in121</idno>
+    </bibl>
+    <bibl xml:id="h_478-bibl">
+     <ptr target="#txt_478-div"/>
+     <idno type="para">p874in1462</idno>
+    </bibl>
+    <bibl xml:id="h_479-bibl">
+     <ptr target="#txt_479-div"/>
+     <idno type="para">p311in580</idno>
+    </bibl>
+    <bibl xml:id="h_480-bibl">
+     <ptr target="#txt_480-div"/>
+     <idno type="para">p9in42</idno>
+    </bibl>
+    <bibl xml:id="h_481-bibl">
+     <ptr target="#txt_481-div"/>
+     <idno type="para">p938in1506</idno>
+    </bibl>
+    <bibl xml:id="h_482-bibl">
+     <ptr target="#txt_482-div"/>
+     <idno type="para">p118in244</idno>
+    </bibl>
+    <bibl xml:id="h_483-bibl">
+     <ptr target="#txt_483-div"/>
+     <idno type="para">p272in476</idno>
+    </bibl>
+    <bibl xml:id="h_484-bibl">
+     <ptr target="#txt_484-div"/>
+     <idno type="para">p22in56</idno>
+    </bibl>
+    <bibl xml:id="h_485-bibl">
+     <ptr target="#txt_485-div"/>
+     <idno type="para">p380in734</idno>
+    </bibl>
+    <bibl xml:id="h_486-bibl">
+     <ptr target="#txt_486-div"/>
+     <idno type="para">p451in724</idno>
+    </bibl>
+    <bibl xml:id="h_487-bibl">
+     <ptr target="#txt_487-div"/>
+     <idno type="para">p102in194</idno>
+    </bibl>
+    <bibl xml:id="h_488-bibl">
+     <ptr target="#txt_488-div"/>
+     <idno type="para">p372in754</idno>
+    </bibl>
+    <bibl xml:id="h_489-bibl">
+     <ptr target="#txt_489-div"/>
+     <idno type="para">p71in163</idno>
+    </bibl>
+    <bibl xml:id="h_490-bibl">
+     <ptr target="#txt_490-div"/>
+     <idno type="para">p343in686</idno>
+    </bibl>
+    <bibl xml:id="h_491-bibl">
+     <ptr target="#txt_491-div"/>
+     <idno type="para">p229in445</idno>
+    </bibl>
+    <bibl xml:id="h_492-bibl">
+     <ptr target="#txt_492-div"/>
+     <idno type="para">p470in907</idno>
+    </bibl>
+    <bibl xml:id="h_493-bibl">
+     <ptr target="#txt_493-div"/>
+     <idno type="para">p356in769</idno>
+    </bibl>
+    <bibl xml:id="h_494-bibl">
+     <ptr target="#txt_494-div"/>
+     <idno type="para">p250in471</idno>
+    </bibl>
+    <bibl xml:id="h_495-bibl">
+     <ptr target="#txt_495-div"/>
+     <idno type="para">p1168in2163</idno>
+    </bibl>
+    <bibl xml:id="h_496-bibl">
+     <ptr target="#txt_496-div"/>
+     <idno type="para">p657in1155</idno>
+    </bibl>
+    <bibl xml:id="h_497-bibl">
+     <ptr target="#txt_497-div"/>
+     <idno type="para">p16in49</idno>
+    </bibl>
+    <bibl xml:id="h_498-bibl">
+     <ptr target="#txt_498-div"/>
+     <idno type="para">p404in797</idno>
+    </bibl>
+    <bibl xml:id="h_499-bibl">
+     <ptr target="#txt_499-div"/>
+     <idno type="para">p216in372</idno>
+    </bibl>
+    <bibl xml:id="h_500-bibl">
+     <ptr target="#txt_500-div"/>
+     <idno type="para">p399in696</idno>
+    </bibl>
+    <bibl xml:id="h_501-bibl">
+     <ptr target="#txt_501-div"/>
+     <idno type="para">p294in435</idno>
+    </bibl>
+    <bibl xml:id="h_502-bibl">
+     <ptr target="#txt_502-div"/>
+     <idno type="para">p164in256</idno>
+    </bibl>
+    <bibl xml:id="h_503-bibl">
+     <ptr target="#txt_503-div"/>
+     <idno type="para">p333in629</idno>
+    </bibl>
+    <bibl xml:id="h_504-bibl">
+     <ptr target="#txt_504-div"/>
+     <idno type="para">p306in569</idno>
+    </bibl>
+    <bibl xml:id="h_505-bibl">
+     <ptr target="#txt_505-div"/>
+     <idno type="para">p14in47</idno>
+    </bibl>
+    <bibl xml:id="h_506-bibl">
+     <ptr target="#txt_506-div"/>
+     <idno type="para">p93in174</idno>
+    </bibl>
+    <bibl xml:id="h_507-bibl">
+     <ptr target="#txt_507-div"/>
+     <idno type="para">p349in640</idno>
+    </bibl>
+    <bibl xml:id="h_508-bibl">
+     <ptr target="#txt_508-div"/>
+     <idno type="para">p53in86</idno>
+    </bibl>
+    <bibl xml:id="h_509-bibl">
+     <ptr target="#txt_509-div"/>
+     <idno type="para">p555in866</idno>
+    </bibl>
+    <bibl xml:id="h_510-bibl">
+     <ptr target="#txt_510-div"/>
+     <idno type="para">p57in106</idno>
+    </bibl>
+    <bibl xml:id="h_511-bibl">
+     <ptr target="#txt_511-div"/>
+     <idno type="para">p418in793</idno>
+    </bibl>
+    <bibl xml:id="h_512-bibl">
+     <ptr target="#txt_512-div"/>
+     <idno type="para">p491in840</idno>
+    </bibl>
+    <bibl xml:id="h_513-bibl">
+     <ptr target="#txt_513-div"/>
+     <idno type="para">p67in138</idno>
+    </bibl>
+    <bibl xml:id="h_514-bibl">
+     <ptr target="#txt_514-div"/>
+     <idno type="para">p86in173</idno>
+    </bibl>
+    <bibl xml:id="h_515-bibl">
+     <ptr target="#txt_515-div"/>
+     <idno type="para">p173in297</idno>
+    </bibl>
+    <bibl xml:id="h_516-bibl">
+     <ptr target="#txt_516-div"/>
+     <idno type="para">p161in285</idno>
+    </bibl>
+    <bibl xml:id="h_517-bibl">
+     <ptr target="#txt_517-div"/>
+     <idno type="para">p208in380</idno>
+    </bibl>
+    <bibl xml:id="h_518-bibl">
+     <ptr target="#txt_518-div"/>
+     <idno type="para">p519in846</idno>
+    </bibl>
+    <bibl xml:id="h_519-bibl">
+     <ptr target="#txt_519-div"/>
+     <idno type="para">p164in311</idno>
+    </bibl>
+    <bibl xml:id="h_520-bibl">
+     <ptr target="#txt_520-div"/>
+     <idno type="para">p447in818</idno>
+    </bibl>
+    <bibl xml:id="h_521-bibl">
+     <ptr target="#txt_521-div"/>
+     <idno type="para">p25in74</idno>
+    </bibl>
+    <bibl xml:id="h_522-bibl">
+     <ptr target="#txt_522-div"/>
+     <idno type="para">p20in54</idno>
+    </bibl>
+    <bibl xml:id="h_523-bibl">
+     <ptr target="#txt_523-div"/>
+     <idno type="para">p513in948</idno>
+    </bibl>
+    <bibl xml:id="h_524-bibl">
+     <ptr target="#txt_524-div"/>
+     <idno type="para">p304in594</idno>
+    </bibl>
+    <bibl xml:id="h_525-bibl">
+     <ptr target="#txt_525-div"/>
+     <idno type="para">p19in52</idno>
+    </bibl>
+    <bibl xml:id="h_526-bibl">
+     <ptr target="#txt_526-div"/>
+     <idno type="para">p207in331</idno>
+    </bibl>
+    <bibl xml:id="h_527-bibl">
+     <ptr target="#txt_527-div"/>
+     <idno type="para">p656in1154</idno>
+    </bibl>
+    <bibl xml:id="h_528-bibl">
+     <ptr target="#txt_528-div"/>
+     <idno type="para">p46in79</idno>
+    </bibl>
+    <bibl xml:id="h_529-bibl">
+     <ptr target="#txt_529-div"/>
+     <idno type="para">p168in309</idno>
+    </bibl>
+    <bibl xml:id="h_530-bibl">
+     <ptr target="#txt_530-div"/>
+     <idno type="para">p40in105</idno>
+    </bibl>
+    <bibl xml:id="h_531-bibl">
+     <ptr target="#txt_531-div"/>
+     <idno type="para">p87in195</idno>
+    </bibl>
+    <bibl xml:id="h_532-bibl">
+     <ptr target="#txt_532-div"/>
+     <idno type="para">p189in374</idno>
+    </bibl>
+    <bibl xml:id="h_533-bibl">
+     <ptr target="#txt_533-div"/>
+     <idno type="para">p10in27</idno>
+    </bibl>
+    <bibl xml:id="h_534-bibl">
+     <ptr target="#txt_534-div"/>
+     <idno type="para">p132in304</idno>
+    </bibl>
+    <bibl xml:id="h_535-bibl">
+     <ptr target="#txt_535-div"/>
+     <idno type="para">p639in1051</idno>
+    </bibl>
+    <bibl xml:id="h_536-bibl">
+     <ptr target="#txt_536-div"/>
+     <idno type="para">p32in66</idno>
+    </bibl>
+    <bibl xml:id="h_537-bibl">
+     <ptr target="#txt_537-div"/>
+     <idno type="para">p261in465</idno>
+    </bibl>
+    <bibl xml:id="h_538-bibl">
+     <ptr target="#txt_538-div"/>
+     <idno type="para">p190in330</idno>
+    </bibl>
+   </listBibl>
+  </sourceDesc>
+ </fileDesc>
+ <profileDesc>
+  <textClass>
+   <catRef scheme="#taxonomy-NKJP-type" target="#typ_publ"/>
+   <catRef scheme="#taxonomy-NKJP-channel" target="#kanal_prasa_tygodnik"/>
+  </textClass>
+ </profileDesc>
+ <revisionDesc xml:id="changelog_local">
+  <change who="#ldegorski" when="2010-05-18">Creation of text.xml from the corresponding text_structure.xml, by sampling.</change>
+  <change who="#sebastianz" when="2010-05-19">Manual correction of samples.</change>
+  <change who="#ldegorski" when="2010-05-19">Creation of header.xml based on the original header and text.xml, validation.</change>
+  <change who="#ldegorski" when="2010-05-23">Corrected offset and length of string-range in segm_16681.1228081-seg</change>
+  <change who="#ldegorski" when="2012-02-14">Manually corrected errors related to incorrectly used C2A2 (soft hyphen) char. 9 instances in morphosyntax changed to "-". This created a few strange segments like "150-", with base "150-", tagged as num, or "SAAB-", tagged as subst)</change>
+ </revisionDesc>
+</teiHeader>
